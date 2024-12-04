@@ -40,7 +40,7 @@ Step 3: Run the Application
 
 To start the application, run the following command:
 
-java -jar target/migros-online-case-1.0.jar
+java -jar target/migrosOnlineCase-0.0.1-SNAPSHOT.jar
 
 Step 4: Access the Application
 
