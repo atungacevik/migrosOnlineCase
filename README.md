@@ -16,7 +16,6 @@ This application tracks couriers and calculates their total travel distance usin
 Before running the application, ensure you have the following installed:
 - Java 17 or higher
 - Maven 3.6.0 or higher (for building and running)
-- 
 ---
 
 ## Setup and Running the Application
