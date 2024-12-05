@@ -97,11 +97,7 @@ Request Body:
   "lng": 29.1244229
 }
 
-Response:
-
-{
-  "message": "Location added successfully"
-}
+Response 200 Ok:
 
 2. Get Total Distance
 
